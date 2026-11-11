@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_app_logo.png" width="160" height="160" alt="Sandip Driver's Logo" />
+  <img src="ic_app_logo.png" width="160" height="160" alt="Sandip Driver's Logo" />
 </p>
 
 <h1 align="center">⚡ SANDIP DRIVER'S — Kernel Driver Manager</h1>
